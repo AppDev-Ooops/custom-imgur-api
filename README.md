@@ -1,7 +1,6 @@
 # custom-imgur-api
 
-### 本地執行
-``` shell
+```shell
 # Install dependencies
 $ npm install
 
